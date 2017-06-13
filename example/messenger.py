@@ -8,6 +8,8 @@ from example.config import CONFIG
 from fbmq import Attachment, Template, QuickReply, NotificationType
 from example.fbpage import page
 
+import random
+
 USER_SEQ = {}
 
 
