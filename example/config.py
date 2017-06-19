@@ -1,5 +1,5 @@
 CONFIG = {
-    'FACEBOOK_TOKEN': 'EAAV7Og9VPQ4BAJeI5q4VMkNQ6ueqjyNgcIou4phpFqMQO7AvAOQTnD2ZCqUe1NIjP0tN7gy5CgU5559yC8DXzfZCkOnY2ZCtFBnK9fFUK7MC6pdYvkhNw0TZC7EFag7zE0EDJa9o2sbybLMd48ZASuyQETzrbngGheJtHbZCpAWgZDZD',
+    'FACEBOOK_TOKEN': 'EAAV7Og9VPQ4BAJexxxxxxxxxxxxxxxxxxxxxxGheJtHbZCpAWgZDZD',
     'VERIFY_TOKEN': 'verify_hecbot',
-    'SERVER_URL': 'https://hec-bot.herokuapp.com/'
+    'SERVER_URL': 'heroku app url'
 }
